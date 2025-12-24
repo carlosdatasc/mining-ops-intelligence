@@ -7,7 +7,7 @@
 
 > **An Artificial Intelligence suite for operational risk monitoring in mining, transforming unstructured text logs into real-time decision dashboards.**
 
----
+Visit here: https://mining-ops-intelligence-mlg5xxru2xjvurbcjdpa9c.streamlit.app/
 
 ## Operational Log Analyzer: From WhatsApp to Insights with NLP
 
@@ -75,5 +75,6 @@ This project uses a modern **End-to-End** architecture:
 * **Visualization:** **Plotly Express & Graph Objects** for interactive charts (Sunburst Charts, Stacked Areas).
 
 ---
+
 
 
