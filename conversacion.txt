@@ -1,0 +1,2347 @@
+```
+LE:Entrada 1
+HO:06:15
+UD:Camión-23 p/JK-8821-C
+EV:Roberto Méndez
+ES:JKF
+DA:Inicio de Labores
+QN:Mario Castillo
+LS:Tajo Norte
+
+LE:Garita Principal
+HO:06:22
+UD:STR 087 placas VM-43-771
+EV:inspección de seguridad
+ES:2-S
+DA:Inicio de Labores personal de mantenimiento
+QN:Carlos Domínguez
+LS:Entrada 1
+
+LE:Campamento
+HO:06:30
+UD:Pipa CR-445 p/NM-7723-A
+EV:Laura Fernández
+ES:JKF
+DA:Abastecimiento de Diesel: 450 lts H.I 892341 H.F 892791
+QN:Pedro Sánchez
+LS:Entrada 2
+
+LE:Entrada 4
+HO:06:35
+UD:DSM-4521 p/LK-92-3B
+EV:Inicio de labores operador
+ES:CIDSA
+DA:Inicio de Labores
+QN:Javier Morales
+LS:Tajo Sur
+
+LE:Planta
+HO:06:40
+UD:Getman NM-125
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa sin novedad
+QN:Fernando López
+LS:Procesamiento
+
+LE:Entrada 2
+HO:06:48
+UD:CR-212 p/HG-5534-D
+EV:Miguel Ángel Torres
+ES:JKF
+DA:Inicio de Labores
+QN:Raúl Gutiérrez
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:06:55
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Se realiza recorrido perimetral encontrando todo en orden sin novedad
+QN:Alberto Ramírez
+LS:Bodega Central
+
+LE:Entrada 1
+HO:07:05
+UD:STR 156 placas PL-88-445
+EV:Jorge Campos
+ES:JKF
+DA:Carga de combustible: 85 lts
+QN:Héctor Ruiz
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:12
+UD:Camión-67 p/TR-3312-F
+EV:inspección de seguridad
+ES:2-S
+DA:Unidad operativa transportando material
+QN:Daniel Ortiz
+LS:Preprocesamiento
+
+LE:Garita Principal
+HO:07:20
+UD:DSM-1890 p/QW-45-7A
+EV:Armando Vega
+ES:JKF
+DA:Inicio de Labores
+QN:Luis Martínez
+LS:Campamento
+
+LE:Entrada 4
+HO:07:28
+UD:Pipa CR-567 p/BN-6698-C
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 320 lts H.I 445221 H.F 445541
+QN:Sergio Navarro
+LS:Tajo Norte
+
+LE:Planta
+HO:07:35
+UD:STR 203 placas YK-77-889
+EV:Rosa María Delgado
+ES:OKK
+DA:Unidad operativa en mantenimiento preventivo
+QN:Guillermo Paz
+LS:Planta
+
+LE:Campamento
+HO:07:42
+UD:Camión-91 p/FD-2234-H
+EV:inspección de seguridad
+ES:2-S
+DA:Inicio de Labores
+QN:Ricardo Silva
+LS:Entrada 3
+
+LE:Entrada 2
+HO:07:50
+UD:CR-334 p/MN-8876-B
+EV:Patricia González
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Martín Flores
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin novedad relevante
+QN:Oscar Medina
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:08:05
+UD:DSM-3421 p/ZX-11-4C
+EV:Juan Carlos Reyes
+ES:JKF
+DA:Carga de combustible: 120 lts
+QN:Alfredo Castro
+LS:Entrada 1
+
+LE:Procesamiento
+HO:08:12
+UD:Getman NM-234
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en procesamiento
+QN:Rodrigo Herrera
+LS:Planta
+
+LE:Garita Principal
+HO:08:20
+UD:STR 089 placas WE-55-332
+EV:Elena Jiménez
+ES:2-S
+DA:Salida a comer
+QN:Víctor Ramón
+LS:Campamento
+
+LE:Entrada 4
+HO:08:28
+UD:Camión-45 p/AS-7789-E
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa transportando equipo
+QN:Manuel Vargas
+LS:Tajo Sur
+
+LE:Planta
+HO:08:35
+UD:Pipa CR-778 p/OP-3321-F
+EV:Claudia Moreno
+ES:JKF
+DA:Abastecimiento de Diesel: 280 lts H.I 776543 H.F 776823
+QN:Francisco Núñez
+LS:Procesamiento
+
+LE:Campamento
+HO:08:42
+UD:DSM-5671 p/GH-88-2D
+EV:inspección de seguridad
+ES:CIDSA
+DA:Inicio de Labores
+QN:Andrés Ríos
+LS:Campamento
+
+LE:Entrada 2
+HO:08:50
+UD:STR 145 placas KL-99-667
+EV:Beatriz Romero
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Enrique Soto
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:08:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección perimetral sin incidentes
+QN:Gabriel Ponce
+LS:Patio 2
+
+LE:Entrada 1
+HO:09:05
+UD:Camión-78 p/XY-4423-G
+EV:Sandra Mejía
+ES:JKF
+DA:Carga de combustible: 95 lts
+QN:Ismael Cortés
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:12
+UD:CR-889 p/RT-6654-A
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en producción
+QN:Hugo Mendoza
+LS:Planta
+
+LE:Garita Principal
+HO:09:20
+UD:DSM-2341 p/IU-33-8B
+EV:Raquel Vázquez
+ES:2-S
+DA:Salida a comer
+QN:Arturo Peña
+LS:Campamento
+
+LE:Entrada 4
+HO:09:28
+UD:Getman NM-567
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Julián Marín
+LS:Tajo Norte
+
+LE:Planta
+HO:09:35
+UD:STR 234 placas DF-22-998
+EV:Mónica Cervantes
+ES:OKK
+DA:Inicio de Labores turno matutino
+QN:Pablo Aguilar
+LS:Procesamiento
+
+LE:Campamento
+HO:09:42
+UD:Pipa CR-990 p/QA-7765-C
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 410 lts H.I 334562 H.F 334972
+QN:Lorenzo García
+LS:Entrada 3
+
+LE:Entrada 2
+HO:09:50
+UD:Camión-12 p/NB-5543-D
+EV:Adriana Salazar
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Diego Bustos
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin novedad relevante
+QN:Felipe Luna
+LS:Bodega Central
+
+LE:Entrada 1
+HO:10:05
+UD:DSM-6782 p/CV-99-1E
+EV:Cecilia Paredes
+ES:JKF
+DA:Carga de combustible: 135 lts
+QN:Óscar Villalobos
+LS:Entrada 1
+
+LE:Procesamiento
+HO:10:12
+UD:STR 176 placas LM-44-556
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en procesamiento
+QN:Eduardo Ramos
+LS:Planta
+
+LE:Garita Principal
+HO:10:20
+UD:CR-445 p/ZK-8834-F
+EV:Norma Ibarra
+ES:2-S
+DA:Salida a comer
+QN:Ramiro Chávez
+LS:Campamento
+
+LE:Entrada 4
+HO:10:28
+UD:Camión-56 p/PO-2219-G
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa transportando material
+QN:Ignacio Lara
+LS:Tajo Sur
+
+LE:Planta
+HO:10:35
+UD:Getman NM-678
+EV:Silvia Rojas
+ES:OKK
+DA:Unidad operativa sin novedad
+QN:Mauricio Ochoa
+LS:Procesamiento
+
+LE:Campamento
+HO:10:42
+UD:Pipa CR-112 p/ER-5567-H
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 375 lts H.I 889012 H.F 889387
+QN:Cristian Duarte
+LS:Campamento
+
+LE:Entrada 2
+HO:10:50
+UD:DSM-4523 p/TY-77-3A
+EV:Gloria Escobar
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Rubén Velasco
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección perimetral todo en orden
+QN:Salvador Arias
+LS:Patio 2
+
+LE:Entrada 1
+HO:11:05
+UD:STR 298 placas UJ-66-443
+EV:Teresa Fuentes
+ES:JKF
+DA:Carga de combustible: 110 lts
+QN:Germán Carrillo
+LS:Entrada 1
+
+LE:Procesamiento
+HO:11:12
+UD:Camión-34 p/WQ-1123-B
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en producción
+QN:Alejandro Guzmán
+LS:Planta
+
+LE:Garita Principal
+HO:11:20
+UD:CR-667 p/FG-4456-C
+EV:Verónica Santana
+ES:2-S
+DA:Salida a comer
+QN:Tomás Barrera
+LS:Campamento
+
+LE:Entrada 4
+HO:11:28
+UD:DSM-7890 p/HK-55-4D
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Jaime Maldonado
+LS:Tajo Norte
+
+LE:Planta
+HO:11:35
+UD:Getman NM-789
+EV:Lorena Suárez
+ES:OKK
+DA:Unidad operativa en mantenimiento
+QN:Ernesto Galván
+LS:Procesamiento
+
+LE:Campamento
+HO:11:42
+UD:Pipa CR-223 p/JL-9988-E
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 295 lts H.I 667788 H.F 668083
+QN:Gonzalo Miranda
+LS:Entrada 3
+
+LE:Entrada 2
+HO:11:50
+UD:STR 309 placas BC-33-779
+EV:Carmen Valdés
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Roberto Esquivel
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:11:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin incidentes
+QN:Julio Montes
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:12:05
+UD:Camión-89 p/XC-7712-F
+EV:Angélica Rivas
+ES:JKF
+DA:Carga de combustible: 145 lts
+QN:Emilio Cordero
+LS:Entrada 1
+
+LE:Procesamiento
+HO:12:12
+UD:DSM-3214 p/NQ-8821-G
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en procesamiento
+QN:Armando León
+LS:Planta
+
+LE:Garita Principal
+HO:12:20
+UD:CR-778 p/PR-5543-A
+EV:Diana Muñoz
+ES:2-S
+DA:Salida a comer
+QN:Marco Sandoval
+LS:Campamento
+
+LE:Entrada 4
+HO:12:28
+UD:Getman NM-890
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Bernardo Salas
+LS:Tajo Sur
+
+LE:Planta
+HO:12:35
+UD:STR 412 placas VN-11-665
+EV:Liliana Cabrera
+ES:OKK
+DA:Unidad operativa en producción
+QN:Rogelio Parra
+LS:Procesamiento
+
+LE:Campamento
+HO:12:42
+UD:Pipa CR-334 p/DH-6689-B
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 340 lts H.I 554332 H.F 554672
+QN:Nicolás Zamora
+LS:Campamento
+
+LE:Entrada 2
+HO:12:50
+UD:Camión-23 p/KM-4421-C
+EV:Josefina Torres
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Iván Prieto
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:12:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección perimetral todo en orden
+QN:Esteban Mejía
+LS:Patio 2
+
+LE:Entrada 1
+HO:13:05
+UD:DSM-5432 p/LO-99-2D
+EV:Margarita Campos
+ES:JKF
+DA:Carga de combustible: 125 lts
+QN:Gerardo Ayala
+LS:Entrada 1
+
+LE:Procesamiento
+HO:13:12
+UD:STR 523 placas QS-77-881
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en producción
+QN:Sebastián Ortega
+LS:Planta
+
+LE:Garita Principal
+HO:13:20
+UD:CR-889 p/TU-3354-E
+EV:Alicia Contreras
+ES:2-S
+DA:Salida a comer
+QN:Leonardo Benavides
+LS:Campamento
+
+LE:Entrada 4
+HO:13:28
+UD:Camión-67 p/WX-6678-F
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Rodolfo Casas
+LS:Tajo Norte
+
+LE:Planta
+HO:13:35
+UD:Getman NM-901
+EV:Isabel Montoya
+ES:OKK
+DA:Unidad operativa en mantenimiento preventivo
+QN:Gustavo Téllez
+LS:Procesamiento
+
+LE:Campamento
+HO:13:42
+UD:Pipa CR-445 p/AZ-8899-G
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 385 lts H.I 223445 H.F 223830
+QN:Claudio Padilla
+LS:Entrada 3
+
+LE:Entrada 2
+HO:13:50
+UD:DSM-6543 p/BM-22-3A
+EV:Luisa Cardenas
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Adán Rosales
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:13:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin novedad relevante
+QN:Ezequiel Bravo
+LS:Bodega Central
+
+LE:Entrada 1
+HO:14:05
+UD:STR 634 placas CN-44-992
+EV:Guadalupe Mora
+ES:JKF
+DA:Fin de Labores
+QN:Maximiliano Cisneros
+LS:Entrada 1
+
+LE:Procesamiento
+HO:14:12
+UD:Camión-91 p/EO-5567-B
+EV:inspección de seguridad
+ES:OKK
+DA:Fin de Labores turno matutino
+QN:Alfonso Benítez
+LS:Planta
+
+LE:Garita Principal
+HO:14:20
+UD:CR-990 p/GT-7723-C
+EV:Pilar Acosta
+ES:2-S
+DA:Fin de Labores
+QN:Dante Quiroz
+LS:Campamento
+
+LE:Entrada 4
+HO:14:28
+UD:DSM-7654 p/IW-88-4D
+EV:inspección de seguridad
+ES:JKF
+DA:Fin de Labores
+QN:Simón Ibáñez
+LS:Tajo Sur
+
+LE:Planta
+HO:14:35
+UD:Getman NM-012
+EV:Yolanda Salinas
+ES:OKK
+DA:Fin de Labores
+QN:Joel Espinoza
+LS:Procesamiento
+
+LE:Campamento
+HO:14:42
+UD:Pipa CR-556 p/KY-9912-E
+EV:inspección de seguridad
+ES:JKF
+DA:Fin de Labores personal de abastecimiento
+QN:Uriel Navarro
+LS:Campamento
+
+LE:Entrada 2
+HO:14:50
+UD:STR 745 placas LP-66-335
+EV:Ofelia Villegas
+ES:JKF
+DA:Fin de Labores
+QN:Xavier Guevara
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:14:58
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección final de turno sin novedad
+QN:Abel Serrano
+LS:Patio 2
+
+LE:Entrada 1
+HO:06:18
+UD:Camión-102 p/RH-3398-A
+EV:Sofía Mendoza
+ES:JKF
+DA:Inicio de Labores
+QN:Bruno Estrada
+LS:Tajo Norte
+
+LE:Garita Principal
+HO:06:25
+UD:DSM-8765 p/SJ-77-5B
+EV:inspección de seguridad
+ES:2-S
+DA:Inicio de Labores personal operativo
+QN:Camilo Bautista
+LS:Entrada 1
+
+LE:Campamento
+HO:06:32
+UD:Pipa CR-667 p/TK-4423-C
+EV:Regina Ávila
+ES:JKF
+DA:Abastecimiento de Diesel: 425 lts H.I 112233 H.F 112658
+QN:Damián Pedroza
+LS:Entrada 2
+
+LE:Entrada 4
+HO:06:38
+UD:STR 856 placas UL-88-6D
+EV:inspección de seguridad
+ES:JKF
+DA:Inicio de Labores
+QN:Edgar Galindo
+LS:Tajo Sur
+
+LE:Planta
+HO:06:45
+UD:Getman NM-123
+EV:Pamela Lozano
+ES:OKK
+DA:Unidad operativa sin novedad
+QN:Fabián Solís
+LS:Procesamiento
+
+LE:Entrada 2
+HO:06:52
+UD:Camión-78 p/VM-5521-E
+EV:inspección de seguridad
+ES:JKF
+DA:Inicio de Labores
+QN:Gael Montalvo
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:00
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin novedad
+QN:Horacio Trujillo
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:07:08
+UD:DSM-9876 p/WN-99-7F
+EV:Valentina Ríos
+ES:JKF
+DA:Carga de combustible: 155 lts
+QN:Israel Camacho
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:15
+UD:STR 967 placas XO-33-8G
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en procesamiento
+QN:Julio Reséndiz
+LS:Planta
+
+LE:Garita Principal
+HO:07:22
+UD:CR-778 p/YP-6654-A
+EV:Ximena Carranza
+ES:2-S
+DA:Unidad operativa sin novedad
+QN:Kevin Alanís
+LS:Campamento
+
+LE:Entrada 4
+HO:07:30
+UD:Camión-45 p/ZQ-1187-B
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa transportando material
+QN:Lenin Cano
+LS:Tajo Norte
+
+LE:Planta
+HO:07:38
+UD:Pipa CR-889 p/AR-8812-C
+EV:Yazmín Figueroa
+ES:JKF
+DA:Abastecimiento de Diesel: 365 lts H.I 998877 H.F 999242
+QN:Mauro Villanueva
+LS:Procesamiento
+
+LE:Campamento
+HO:07:45
+UD:DSM-2345 p/BS-44-9D
+EV:inspección de seguridad
+ES:CIDSA
+DA:Inicio de Labores
+QN:Néstor Olivares
+LS:Campamento
+
+LE:Entrada 2
+HO:07:52
+UD:Getman NM-234
+EV:Zulema Cervantes
+ES:OKK
+DA:Unidad operativa sin novedad
+QN:Omar Cavazos
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:08:00
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección perimetral todo en orden
+QN:Pascual Saldaña
+LS:Patio 2
+
+LE:Entrada 1
+HO:08:08
+UD:STR 078 placas CT-55-1E
+EV:Ada Salazar
+ES:JKF
+DA:Carga de combustible: 175 lts
+QN:Quirino Barraza
+LS:Entrada 1
+
+LE:Procesamiento
+HO:08:15
+UD:Camión-56 p/DU-2234-F
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en producción
+QN:Ramón Sosa
+LS:Planta
+
+LE:Garita Principal
+HO:08:22
+UD:CR-990 p/EV-7767-G
+EV:Brenda Cárdenas
+ES:2-S
+DA:Salida a comer
+QN:Samuel Hinojosa
+LS:Campamento
+
+LE:Entrada 4
+HO:08:30
+UD:DSM-3456 p/FW-11-2A
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Tadeo Vallejo
+LS:Tajo Sur
+
+LE:Planta
+HO:08:38
+UD:Getman NM-345
+EV:Celina Guerrero
+ES:OKK
+DA:Unidad operativa en mantenimiento
+QN:Ulises Mata
+LS:Procesamiento
+
+LE:Campamento
+HO:08:45
+UD:Pipa CR-112 p/GX-8898-B
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 315 lts H.I 445566 H.F 445881
+QN:Virgilio Aranda
+LS:Entrada 3
+
+LE:Entrada 2
+HO:08:52
+UD:STR 189 placas HY-44-3C
+EV:Dalia Zavala
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Walter Nieto
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:00
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Recorrido perimetral sin incidentes
+QN:Yair Santillán
+LS:Bodega Central
+
+LE:Entrada 1
+HO:09:08
+UD:Camión-23 p/IZ-5532-D
+EV:Elsa Villarreal
+ES:JKF
+DA:Carga de combustible: 105 lts
+QN:Zacarías Rocha
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:15
+UD:CR-223 p/JA-9923-E
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en procesamiento
+QN:Alberto Ugalde
+LS:Planta
+
+LE:Garita Principal
+HO:09:22
+UD:DSM-4567 p/KB-33-4F
+EV:Fernanda Pacheco
+ES:2-S
+DA:Salida a comer
+QN:Benjamín Yáñez
+LS:Campamento
+
+LE:Entrada 4
+HO:09:30
+UD:Getman NM-456
+EV:inspección de seguridad
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:César Alcántara
+LS:Tajo Norte
+
+LE:Planta
+HO:09:38
+UD:STR 290 placas LC-66-5G
+EV:Gisela Quintana
+ES:OKK
+DA:Inicio de Labores turno matutino
+QN:David Burgos
+LS:Procesamiento
+
+LE:Campamento
+HO:09:45
+UD:Pipa CR-334 p/MD-1156-A
+EV:inspección de seguridad
+ES:JKF
+DA:Abastecimiento de Diesel: 445 lts H.I 778899 H.F 779344
+QN:Elías Ceja
+LS:Campamento
+
+LE:Entrada 2
+HO:09:52
+UD:Camión-67 p/NE-8887-B
+EV:Hilda Macías
+ES:JKF
+DA:Unidad operativa sin novedad
+QN:Felipe Carbajal
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:00
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Inspección perimetral sin novedad relevante
+QN:Gilberto Alfaro
+LS:Patio 2
+
+LE:Entrada 1
+HO:10:08
+UD:DSM-5678 p/OF-22-6C
+EV:Irma Espino
+ES:JKF
+DA:Carga de combustible: 165 lts
+QN:Héctor Vilchis
+LS:Entrada 1
+
+LE:Procesamiento
+HO:10:15
+UD:STR 401 placas PG-77-7D
+EV:inspección de seguridad
+ES:OKK
+DA:Unidad operativa en producción
+QN:Ignacio Palacios
+LS:Planta
+
+LE:Garita Principal
+HO:10:22
+UD:CR-445 p/QH-5543-E
+EV:Juana Rangel
+ES:2-S
+DA:Salida a comer
+QN:Jorge Zambrano
+LS:Campamento
+
+LE:Entrada 4
+HO:10:30
+UD:Camión-89 p/RI-1198-F
+EV:inspección de
+
+```
+LE:Entrada 1
+HO:06:15
+UD:Camión-45 p/XR-8821-D
+EV:Roberto Sánchez
+ES:ERR
+DA:Fuga de aceite en motor reportada al arrancar unidad
+QN:Mario Delgado
+LS:Taller Mecánico
+
+LE:Garita Principal
+HO:06:28
+UD:STR 156 placas VM-77-332
+EV:inspección de seguridad
+ES:FLL
+DA:Ruido anormal en balatas traseras requiere revisión inmediata
+QN:Carlos Méndez
+LS:Entrada 1
+
+LE:Campamento
+HO:06:40
+UD:Pipa CR-445 p/NM-5523-B
+EV:Laura González
+ES:ERR
+DA:Neumático delantero derecho ponchado en trayecto
+QN:Pedro Ramírez
+LS:Entrada 2
+
+LE:Entrada 4
+HO:06:52
+UD:DSM-4521 p/LK-88-7C
+EV:Inicio de labores operador
+ES:FLL
+DA:Falla en sistema hidráulico pérdida de presión en cilindros
+QN:Javier Ortiz
+LS:Tajo Sur
+
+LE:Planta
+HO:07:05
+UD:Getman NM-234
+EV:inspección de seguridad
+ES:ERR
+DA:Luces delanteras no encienden fusible fundido
+QN:Fernando Castro
+LS:Procesamiento
+
+LE:Entrada 2
+HO:07:18
+UD:CR-212 p/HG-4534-E
+EV:Miguel Torres
+ES:FLL
+DA:Sistema de frenos requiere ajuste pedal esponjoso
+QN:Raúl Herrera
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:30
+UD:Camión-67 p/TR-2212-F
+EV:inspección de seguridad
+ES:ERR
+DA:Fuga de refrigerante en radiador temperatura elevada
+QN:Alberto Vargas
+LS:Bodega Central
+
+LE:Entrada 1
+HO:07:42
+UD:STR 203 placas PL-99-445
+EV:Jorge Mendoza
+ES:FLL
+DA:Transmisión patina en tercera velocidad requiere diagnóstico
+QN:Héctor Silva
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:55
+UD:DSM-1890 p/QW-33-8A
+EV:inspección de seguridad
+ES:ERR
+DA:Batería descargada no arranca motor
+QN:Daniel López
+LS:Preprocesamiento
+
+LE:Garita Principal
+HO:08:08
+UD:Pipa CR-567 p/BN-5598-G
+EV:Armando Soto
+ES:FLL
+DA:Bomba de combustible presenta falla intermitente
+QN:Luis Gutiérrez
+LS:Campamento
+
+LE:Entrada 4
+HO:08:20
+UD:Camión-91 p/FD-1134-H
+EV:inspección de seguridad
+ES:ERR
+DA:Amortiguador trasero izquierdo roto requiere reemplazo
+QN:Guillermo Navarro
+LS:Tajo Norte
+
+LE:Planta
+HO:08:32
+UD:STR 234 placas YK-66-889
+EV:Rosa Delgado
+ES:FLL
+DA:Alternador no carga batería correctamente voltaje bajo
+QN:Ricardo Paz
+LS:Planta
+
+LE:Campamento
+HO:08:45
+UD:CR-778 p/MN-7776-B
+EV:inspección de seguridad
+ES:ERR
+DA:Fuga en línea de aire comprimido frenos neumáticos
+QN:Martín Flores
+LS:Entrada 3
+
+LE:Entrada 2
+HO:08:58
+UD:DSM-3421 p/ZX-88-4C
+EV:Juan Reyes
+ES:FLL
+DA:Motor presenta sobrecalentamiento termostato defectuoso
+QN:Oscar Medina
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:10
+UD:Getman NM-125
+EV:inspección de seguridad
+ES:ERR
+DA:Clutch patina requiere ajuste o reemplazo urgente
+QN:Alfredo Castro
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:09:22
+UD:Camión-45 p/AS-6689-E
+EV:Elena Jiménez
+ES:FLL
+DA:Dirección hidráulica con ruido bomba con fuga
+QN:Rodrigo Herrera
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:35
+UD:STR 089 placas WE-44-332
+EV:inspección de seguridad
+ES:ERR
+DA:Neumáticos traseros con desgaste irregular requieren rotación
+QN:Víctor Ramón
+LS:Planta
+
+LE:Garita Principal
+HO:09:48
+UD:Pipa CR-990 p/OP-2221-F
+EV:Claudia Moreno
+ES:FLL
+DA:Sistema de escape roto pérdida de potencia
+QN:Manuel Vargas
+LS:Campamento
+
+LE:Entrada 4
+HO:10:00
+UD:DSM-5671 p/GH-77-2D
+EV:inspección de seguridad
+ES:ERR
+DA:Turbocompresor con ruido metálico requiere revisión
+QN:Francisco Núñez
+LS:Tajo Sur
+
+LE:Planta
+HO:10:12
+UD:CR-889 p/RT-5554-A
+EV:Beatriz Romero
+ES:FLL
+DA:Filtro de aire saturado motor pierde fuerza
+QN:Andrés Ríos
+LS:Procesamiento
+
+LE:Campamento
+HO:10:25
+UD:Camión-78 p/XY-3323-G
+EV:inspección de seguridad
+ES:ERR
+DA:Suspensión delantera con juego excesivo bujes gastados
+QN:Enrique Soto
+LS:Entrada 3
+
+LE:Entrada 2
+HO:10:38
+UD:STR 145 placas KL-88-667
+EV:Sandra Mejía
+ES:FLL
+DA:Bomba de agua con fuga requiere reemplazo inmediato
+QN:Gabriel Ponce
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:50
+UD:Getman NM-567
+EV:inspección de seguridad
+ES:ERR
+DA:Inyectores sucios motor falla en aceleración
+QN:Ismael Cortés
+LS:Patio 2
+
+LE:Entrada 1
+HO:11:02
+UD:DSM-2341 p/IU-22-8B
+EV:Raquel Vázquez
+ES:FLL
+DA:Sensor de temperatura defectuoso lecturas erróneas
+QN:Hugo Mendoza
+LS:Entrada 1
+
+LE:Procesamiento
+HO:11:15
+UD:Pipa CR-112 p/KY-8812-E
+EV:inspección de seguridad
+ES:ERR
+DA:Mangueras de alta presión con grietas requieren cambio
+QN:Arturo Peña
+LS:Planta
+
+LE:Garita Principal
+HO:11:28
+UD:Camión-56 p/PO-1119-G
+EV:Mónica Cervantes
+ES:FLL
+DA:Caja de cambios con ruido en quinta velocidad
+QN:Julián Marín
+LS:Campamento
+
+LE:Entrada 4
+HO:11:40
+UD:STR 176 placas LM-33-556
+EV:inspección de seguridad
+ES:ERR
+DA:Sistema eléctrico con corto intermitente
+QN:Pablo Aguilar
+LS:Tajo Norte
+
+LE:Planta
+HO:11:52
+UD:CR-445 p/ZK-7734-F
+EV:Norma Ibarra
+ES:FLL
+DA:Válvula termostática trabada motor no alcanza temperatura
+QN:Lorenzo García
+LS:Procesamiento
+
+LE:Campamento
+HO:12:05
+UD:DSM-6782 p/CV-88-1E
+EV:inspección de seguridad
+ES:ERR
+DA:Tensor de banda roto alternador no funciona
+QN:Diego Bustos
+LS:Campamento
+
+LE:Entrada 2
+HO:12:18
+UD:Camión-12 p/NB-4443-D
+EV:Cecilia Paredes
+ES:FLL
+DA:Cruceta de cardan con juego excesivo vibración
+QN:Felipe Luna
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:12:30
+UD:Getman NM-678
+EV:inspección de seguridad
+ES:ERR
+DA:Cilindro hidráulico con sello dañado fuga de aceite
+QN:Eduardo Ramos
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:12:42
+UD:STR 203 placas DF-11-998
+EV:Patricia González
+ES:FLL
+DA:Rodamientos de ruedas con holgura ruido metálico
+QN:Óscar Villalobos
+LS:Entrada 1
+
+LE:Procesamiento
+HO:12:55
+UD:Pipa CR-334 p/DH-5589-B
+EV:inspección de seguridad
+ES:ERR
+DA:Compresor de aire no genera presión suficiente
+QN:Ramiro Chávez
+LS:Planta
+
+LE:Garita Principal
+HO:13:08
+UD:DSM-4523 p/TY-66-3A
+EV:Gloria Escobar
+ES:FLL
+DA:Bujías de precalentamiento quemadas motor no arranca en frío
+QN:Ignacio Lara
+LS:Campamento
+
+LE:Entrada 4
+HO:13:20
+UD:Camión-34 p/WQ-9923-B
+EV:inspección de seguridad
+ES:ERR
+DA:Cremallera de dirección con fugas aceite hidráulico
+QN:Mauricio Ochoa
+LS:Tajo Sur
+
+LE:Planta
+HO:13:32
+UD:CR-667 p/FG-3356-C
+EV:Verónica Santana
+ES:FLL
+DA:Diferencial con ruido requiere cambio de aceite y revisión
+QN:Cristian Duarte
+LS:Procesamiento
+
+LE:Campamento
+HO:13:45
+UD:STR 298 placas UJ-55-443
+EV:inspección de seguridad
+ES:ERR
+DA:Múltiple de escape con fisura fuga de gases
+QN:Rubén Velasco
+LS:Entrada 3
+
+LE:Entrada 2
+HO:13:58
+UD:Getman NM-789
+EV:Teresa Fuentes
+ES:FLL
+DA:Pasadores de freno trabados requieren limpieza y lubricación
+QN:Salvador Arias
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:14:10
+UD:DSM-7890 p/HK-44-4D
+EV:inspección de seguridad
+ES:ERR
+DA:Sistema de enfriamiento con aire atrapado pérdida de eficiencia
+QN:Germán Carrillo
+LS:Patio 2
+
+LE:Entrada 1
+HO:14:22
+UD:Camión-89 p/XC-6612-F
+EV:Lorena Suárez
+ES:FLL
+DA:Bujes de suspensión cristalizados requieren reemplazo
+QN:Alejandro Guzmán
+LS:Entrada 1
+
+LE:Procesamiento
+HO:14:35
+UD:Pipa CR-223 p/JL-8888-E
+EV:inspección de seguridad
+ES:ERR
+DA:Válvula EGR obstruida motor con humo negro
+QN:Tomás Barrera
+LS:Planta
+
+LE:Garita Principal
+HO:06:18
+UD:STR 309 placas BC-22-779
+EV:Carmen Valdés
+ES:FLL
+DA:Motor de arranque no gira selenoide defectuoso
+QN:Jaime Maldonado
+LS:Campamento
+
+LE:Entrada 4
+HO:06:30
+UD:CR-778 p/PR-4443-A
+EV:inspección de seguridad
+ES:ERR
+DA:Brazo pitman con fisura requiere soldadura urgente
+QN:Ernesto Galván
+LS:Tajo Norte
+
+LE:Planta
+HO:06:42
+UD:DSM-3214 p/NQ-7721-G
+EV:Diana Muñoz
+ES:FLL
+DA:Intercooler con fuga de aire turbo pierde presión
+QN:Gonzalo Miranda
+LS:Procesamiento
+
+LE:Campamento
+HO:06:55
+UD:Camión-23 p/KM-3321-C
+EV:inspección de seguridad
+ES:ERR
+DA:Filtro de combustible saturado motor con fallas
+QN:Roberto Esquivel
+LS:Campamento
+
+LE:Entrada 2
+HO:07:08
+UD:Getman NM-890
+EV:Liliana Cabrera
+ES:FLL
+DA:Cilindro maestro de frenos con fuga líquido bajo
+QN:Julio Montes
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:20
+UD:STR 412 placas VN-99-665
+EV:inspección de seguridad
+ES:ERR
+DA:Árbol de levas con ruido metálico requiere diagnóstico
+QN:Emilio Cordero
+LS:Bodega Central
+
+LE:Entrada 1
+HO:07:32
+UD:Pipa CR-990 p/QA-6665-C
+EV:Angélica Rivas
+ES:FLL
+DA:Junta de culata con fuga aceite mezclado con refrigerante
+QN:Armando León
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:45
+UD:DSM-5432 p/LO-88-2D
+EV:inspección de seguridad
+ES:ERR
+DA:Sensor de presión de aceite defectuoso indicador erróneo
+QN:Marco Sandoval
+LS:Planta
+
+LE:Garita Principal
+HO:07:58
+UD:Camión-67 p/WX-5578-F
+EV:Margarita Campos
+ES:FLL
+DA:Barra estabilizadora rota requiere reemplazo urgente
+QN:Bernardo Salas
+LS:Campamento
+
+LE:Entrada 4
+HO:08:10
+UD:CR-889 p/TU-2254-E
+EV:inspección de seguridad
+ES:ERR
+DA:Sistema de inyección electrónica con falla códigos de error
+QN:Rogelio Parra
+LS:Tajo Sur
+
+LE:Planta
+HO:08:22
+UD:STR 523 placas QS-66-881
+EV:Alicia Contreras
+ES:FLL
+DA:Volante de motor con fisuras vibración excesiva
+QN:Nicolás Zamora
+LS:Procesamiento
+
+LE:Campamento
+HO:08:35
+UD:Getman NM-901
+EV:inspección de seguridad
+ES:ERR
+DA:Válvulas de admisión con carbonilla motor pierde compresión
+QN:Iván Prieto
+LS:Entrada 3
+
+LE:Entrada 2
+HO:08:48
+UD:DSM-6543 p/BM-11-3A
+EV:Isabel Montoya
+ES:FLL
+DA:Sincronizadores de caja desgastados dificultad para cambiar
+QN:Esteban Mejía
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:00
+UD:Camión-91 p/EO-4467-B
+EV:inspección de seguridad
+ES:ERR
+DA:Bomba de dirección asistida con ruido nivel bajo de fluido
+QN:Gerardo Ayala
+LS:Patio 2
+
+LE:Entrada 1
+HO:09:12
+UD:Pipa CR-556 p/KY-8812-E
+EV:Guadalupe Mora
+ES:FLL
+DA:Neumático trasero con hernia lateral requiere cambio inmediato
+QN:Sebastián Ortega
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:25
+UD:STR 634 placas CN-33-992
+EV:inspección de seguridad
+ES:ERR
+DA:Sensor MAF sucio motor con consumo excesivo
+QN:Leonardo Benavides
+LS:Planta
+
+LE:Garita Principal
+HO:09:38
+UD:CR-445 p/AZ-7799-G
+EV:Pilar Acosta
+ES:FLL
+DA:Cojinetes de bancada con holgura ruido de bielas
+QN:Rodolfo Casas
+LS:Campamento
+
+LE:Entrada 4
+HO:09:50
+UD:DSM-7654 p/IW-77-4D
+EV:inspección de seguridad
+ES:ERR
+DA:Sistema de escape con catalizador obstruido pérdida de potencia
+QN:Gustavo Téllez
+LS:Tajo Norte
+
+LE:Planta
+HO:10:02
+UD:Camión-102 p/RH-2298-A
+EV:Yolanda Salinas
+ES:FLL
+DA:Varillaje de freno desajustado pedal sin resistencia
+QN:Claudio Padilla
+LS:Procesamiento
+
+LE:Campamento
+HO:10:15
+UD:Getman NM-012
+EV:inspección de seguridad
+ES:ERR
+DA:Radiador con obstrucción interna motor se sobrecalienta
+QN:Adán Rosales
+LS:Campamento
+
+LE:Entrada 2
+HO:10:28
+UD:STR 745 placas LP-55-335
+EV:Ofelia Villegas
+ES:FLL
+DA:Módulo de control ECU con falla intermitente motor se apaga
+QN:Ezequiel Bravo
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:40
+UD:Pipa CR-667 p/TK-3323-C
+EV:inspección de seguridad
+ES:ERR
+DA:Amortiguadores delanteros sin retención aceite hidráulico
+QN:Maximiliano Cisneros
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:10:52
+UD:DSM-8765 p/SJ-66-5B
+EV:Sofía Mendoza
+ES:FLL
+DA:Carter de aceite con fisura fuga importante de lubricante
+QN:Alfonso Benítez
+LS:Entrada 1
+
+LE:Procesamiento
+HO:11:05
+UD:CR-334 p/MD-9956-F
+EV:inspección de seguridad
+ES:ERR
+DA:Balancines con holgura excesiva ruido de motor
+QN:Dante Quiroz
+LS:Planta
+
+LE:Garita Principal
+HO:11:18
+UD:Camión-78 p/VM-4421-E
+EV:Regina Ávila
+ES:FLL
+DA:Sistema de lubricación con presión baja bomba defectuosa
+QN:Simón Ibáñez
+LS:Campamento
+
+LE:Entrada 4
+HO:11:30
+UD:STR 856 placas UL-77-6D
+EV:inspección de seguridad
+ES:ERR
+DA:Ventilador de motor con aspas rotas vibración excesiva
+QN:Joel Espinoza
+LS:Tajo Sur
+
+LE:Planta
+HO:11:42
+UD:Getman NM-123
+EV:Pamela Lozano
+ES:FLL
+DA:Embrague hidráulico con fuga cilindro esclavo dañado
+QN:Uriel Navarro
+LS:Procesamiento
+
+LE:Campamento
+HO:11:55
+UD:DSM-9876 p/WN-88-7F
+EV:inspección de seguridad
+ES:ERR
+DA:Flecha de transmisión desbalanceada vibración en velocidad
+QN:Xavier Guevara
+LS:Entrada 3
+
+LE:Entrada 2
+HO:12:08
+UD:Pipa CR-889 p/AR-7712-C
+EV:Valentina Ríos
+ES:FLL
+DA:Pistones con desgaste anormal consumo excesivo de aceite
+QN:Abel Serrano
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:12:20
+UD:Camión-45 p/ZQ-9987-B
+EV:inspección de seguridad
+ES:ERR
+DA:Freno de estacionamiento no retiene vehículo cables estirados
+QN:Bruno Estrada
+LS:Patio 2
+
+LE:Entrada 1
+HO:12:32
+UD:STR 967 placas XO-22-8G
+EV:Yazmín Figueroa
+ES:FLL
+DA:Depósito de combustible con sedimentos filtros obstruidos
+QN:Camilo Bautista
+LS:Entrada 1
+
+LE:Procesamiento
+HO:12:45
+UD:CR-778 p/YP-5554-A
+EV:inspección de seguridad
+ES:ERR
+DA:Sistema de dirección con juego excesivo terminales gastadas
+QN:Damián Pedroza
+LS:Planta
+
+LE:Garita Principal
+HO:12:58
+UD:DSM-2345 p/BS-33-9D
+EV:Zulema Cervantes
+ES:FLL
+DA:Convertidor de par con falla transmisión automática patina
+QN:Edgar Galindo
+LS:Campamento
+
+LE:Entrada 4
+HO:13:10
+UD:Getman NM-234
+EV:inspección de seguridad
+ES:ERR
+DA:Limpiaparabrisas con motor quemado no funcionan
+QN:Fabián Solís
+LS:Tajo Norte
+
+LE:Planta
+HO:13:22
+UD:Camión-56 p/DU-1134-F
+EV:Ada Salazar
+ES:FLL
+DA:Calibración de válvulas requerida motor con ruido de taquetes
+QN:Gael Montalvo
+LS:Procesamiento
+
+LE:Campamento
+HO:13:35
+UD:STR 078 placas CT-44-1E
+EV:inspección de seguridad
+ES:ERR
+DA:Líneas de retorno de combustible con fugas presión irregular
+QN:Horacio Trujillo
+LS:Entrada 3
+
+LE:Entrada 2
+HO:13:48
+UD:Pipa CR-112 p/GX-7798-B
+EV:Brenda Cárdenas
+ES:FLL
+DA:Correa de distribución con grietas riesgo de rotura inminente
+QN:Israel Camacho
+LS:Entrada 2
+
+```
+LE:Entrada 1
+HO:06:15
+UD:Camión-23 p/JK-8821-C
+EV:Roberto Méndez
+ES:2-R
+DA:Lluvia intensa camino resbaloso reducción de velocidad
+QN:Mario Castillo
+LS:Tajo Norte
+
+LE:Garita Principal
+HO:06:28
+UD:STR 087 placas VM-43-771
+EV:inspección de seguridad
+ES:2-R
+DA:Neblina densa visibilidad reducida a 20 metros
+QN:Carlos Domínguez
+LS:Entrada 1
+
+LE:Campamento
+HO:06:40
+UD:Pipa CR-445 p/NM-7723-A
+EV:Laura Fernández
+ES:2-R
+DA:Operador sin equipo de protección personal se le proporcionó casco
+QN:Pedro Sánchez
+LS:Entrada 2
+
+LE:Entrada 4
+HO:06:52
+UD:DSM-4521 p/LK-92-3B
+EV:Inicio de labores operador
+ES:2-R
+DA:Derrumbe menor en acceso norte cerrado temporalmente
+QN:Javier Morales
+LS:Tajo Sur
+
+LE:Planta
+HO:07:05
+UD:Getman NM-125
+EV:inspección de seguridad
+ES:2-R
+DA:Presencia de polvo excesivo en área de trituración
+QN:Fernando López
+LS:Procesamiento
+
+LE:Entrada 2
+HO:07:18
+UD:CR-212 p/HG-5534-D
+EV:Miguel Ángel Torres
+ES:2-R
+DA:Viento fuerteráfagas de 60 km/h suspensión de trabajos en altura
+QN:Raúl Gutiérrez
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:30
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Derrame menor de diesel contenido y limpiado según protocolo
+QN:Alberto Ramírez
+LS:Bodega Central
+
+LE:Entrada 1
+HO:07:42
+UD:STR 156 placas PL-88-445
+EV:Jorge Campos
+ES:2-R
+DA:Trabajador sin chaleco reflectante se le entregó equipo
+QN:Héctor Ruiz
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:55
+UD:Camión-67 p/TR-3312-F
+EV:inspección de seguridad
+ES:2-R
+DA:Granizada intensa suspensión temporal de operaciones exteriores
+QN:Daniel Ortiz
+LS:Preprocesamiento
+
+LE:Garita Principal
+HO:08:08
+UD:DSM-1890 p/QW-45-7A
+EV:Armando Vega
+ES:2-R
+DA:Temperatura ambiente 42°C implementación de pausas de hidratación
+QN:Luis Martínez
+LS:Campamento
+
+LE:Entrada 4
+HO:08:20
+UD:Pipa CR-567 p/BN-6698-C
+EV:inspección de seguridad
+ES:2-R
+DA:Camino con encharcamientos riesgo de atascamiento
+QN:Sergio Navarro
+LS:Tajo Norte
+
+LE:Planta
+HO:08:32
+UD:STR 203 placas YK-77-889
+EV:Rosa María Delgado
+ES:2-R
+DA:Fuga de gas LP detectada área evacuada equipo de emergencia activado
+QN:Guillermo Paz
+LS:Planta
+
+LE:Campamento
+HO:08:45
+UD:Camión-91 p/FD-2234-H
+EV:inspección de seguridad
+ES:2-R
+DA:Operador sin guantes de seguridad se le proporcionó equipo
+QN:Ricardo Silva
+LS:Entrada 3
+
+LE:Entrada 2
+HO:08:58
+UD:CR-334 p/MN-8876-B
+EV:Patricia González
+ES:2-R
+DA:Neblina baja visibilidad nula suspensión de tránsito temporal
+QN:Martín Flores
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:10
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Presencia de fauna silvestre serpiente en área de tránsito
+QN:Oscar Medina
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:09:22
+UD:DSM-3421 p/ZX-11-4C
+EV:Juan Carlos Reyes
+ES:2-R
+DA:Tormenta eléctrica en zona evacuación de personal a zona segura
+QN:Alfredo Castro
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:35
+UD:Getman NM-234
+EV:inspección de seguridad
+ES:2-R
+DA:Polvo en suspensión reducción de visibilidad activación de riego
+QN:Rodrigo Herrera
+LS:Planta
+
+LE:Garita Principal
+HO:09:48
+UD:STR 089 placas WE-55-332
+EV:Elena Jiménez
+ES:2-R
+DA:Operador sin lentes de seguridad se le entregó equipo
+QN:Víctor Ramón
+LS:Campamento
+
+LE:Entrada 4
+HO:10:00
+UD:Camión-45 p/AS-7789-E
+EV:inspección de seguridad
+ES:2-R
+DA:Rocas sueltas en talud riesgo de caída señalización colocada
+QN:Manuel Vargas
+LS:Tajo Sur
+
+LE:Planta
+HO:10:12
+UD:Pipa CR-778 p/OP-3321-F
+EV:Claudia Moreno
+ES:2-R
+DA:Incendio menor en vegetación controlado con extintores
+QN:Francisco Núñez
+LS:Procesamiento
+
+LE:Campamento
+HO:10:25
+UD:DSM-5671 p/GH-88-2D
+EV:inspección de seguridad
+ES:2-R
+DA:Hielo en camino superficie congelada esparcimiento de sal
+QN:Andrés Ríos
+LS:Campamento
+
+LE:Entrada 2
+HO:10:38
+UD:STR 145 placas KL-99-667
+EV:Beatriz Romero
+ES:2-R
+DA:Operador sin botas de seguridad se le proporcionó calzado
+QN:Enrique Soto
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:50
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Fuga de agua en tubería inundación menor contenida
+QN:Gabriel Ponce
+LS:Patio 2
+
+LE:Entrada 1
+HO:11:02
+UD:Camión-78 p/XY-4423-G
+EV:Sandra Mejía
+ES:2-R
+DA:Viento con tolvaneras visibilidad reducida tránsito lento
+QN:Ismael Cortés
+LS:Entrada 1
+
+LE:Procesamiento
+HO:11:15
+UD:CR-889 p/RT-6654-A
+EV:inspección de seguridad
+ES:2-R
+DA:Nivel alto de ruido en quebradora personal con protección auditiva
+QN:Hugo Mendoza
+LS:Planta
+
+LE:Garita Principal
+HO:11:28
+UD:DSM-2341 p/IU-33-8B
+EV:Raquel Vázquez
+ES:2-R
+DA:Operador conduciendo sin cinturón de seguridad llamado de atención
+QN:Arturo Peña
+LS:Campamento
+
+LE:Entrada 4
+HO:11:40
+UD:Getman NM-567
+EV:inspección de seguridad
+ES:2-R
+DA:Grieta en camino señalización preventiva colocada
+QN:Julián Marín
+LS:Tajo Norte
+
+LE:Planta
+HO:11:52
+UD:STR 234 placas DF-22-998
+EV:Mónica Cervantes
+ES:2-R
+DA:Derrame de aceite hidráulico área acordonada limpieza en proceso
+QN:Pablo Aguilar
+LS:Procesamiento
+
+LE:Campamento
+HO:12:05
+UD:Pipa CR-990 p/QA-7765-C
+EV:inspección de seguridad
+ES:2-R
+DA:Lluvia torrencial inundación en acceso principal desvío activado
+QN:Lorenzo García
+LS:Entrada 3
+
+LE:Entrada 2
+HO:12:18
+UD:Camión-12 p/NB-5543-D
+EV:Adriana Salazar
+ES:2-R
+DA:Operador sin arnés de seguridad en trabajo en altura
+QN:Diego Bustos
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:12:30
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Presencia de humo por quema no autorizada área ventilada
+QN:Felipe Luna
+LS:Bodega Central
+
+LE:Entrada 1
+HO:12:42
+UD:DSM-6782 p/CV-99-1E
+EV:Cecilia Paredes
+ES:2-R
+DA:Rayos solares intensos índice UV extremo protección obligatoria
+QN:Óscar Villalobos
+LS:Entrada 1
+
+LE:Procesamiento
+HO:12:55
+UD:STR 176 placas LM-44-556
+EV:inspección de seguridad
+ES:2-R
+DA:Vibración excesiva en estructura metálica revisión estructural solicitada
+QN:Eduardo Ramos
+LS:Planta
+
+LE:Garita Principal
+HO:13:08
+UD:CR-445 p/ZK-8834-F
+EV:Norma Ibarra
+ES:2-R
+DA:Neblina matutina disipándose visibilidad mejorando gradualmente
+QN:Ramiro Chávez
+LS:Campamento
+
+LE:Entrada 4
+HO:13:20
+UD:Camión-56 p/PO-2219-G
+EV:inspección de seguridad
+ES:2-R
+DA:Derrumbe de material en zona de acarreo acceso bloqueado
+QN:Ignacio Lara
+LS:Tajo Sur
+
+LE:Planta
+HO:13:32
+UD:Getman NM-678
+EV:Silvia Rojas
+ES:2-R
+DA:Trabajador sin mascarilla antipolvo se le proporcionó equipo
+QN:Mauricio Ochoa
+LS:Procesamiento
+
+LE:Campamento
+HO:13:45
+UD:Pipa CR-112 p/ER-5567-H
+EV:inspección de seguridad
+ES:2-R
+DA:Vientos huracanados suspensión total de operaciones exteriores
+QN:Cristian Duarte
+LS:Campamento
+
+LE:Entrada 2
+HO:13:58
+UD:DSM-4523 p/TY-77-3A
+EV:Gloria Escobar
+ES:2-R
+DA:Presencia de gas metano detectado ventilación de área inmediata
+QN:Rubén Velasco
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:14:10
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Alarma de evacuación activada por error personal retornó a labores
+QN:Salvador Arias
+LS:Patio 2
+
+LE:Entrada 1
+HO:14:22
+UD:STR 298 placas UJ-66-443
+EV:Teresa Fuentes
+ES:2-R
+DA:Camino lodoso vehículos con tracción reducida precaución extrema
+QN:Germán Carrillo
+LS:Entrada 1
+
+LE:Procesamiento
+HO:14:35
+UD:Camión-34 p/WQ-1123-B
+EV:inspección de seguridad
+ES:2-R
+DA:Contenedor de residuos peligrosos sin tapa correctivo aplicado
+QN:Alejandro Guzmán
+LS:Planta
+
+LE:Garita Principal
+HO:06:18
+UD:CR-667 p/FG-4456-C
+EV:Verónica Santana
+ES:2-R
+DA:Helada intempestiva superficie resbalosa sal industrial aplicada
+QN:Tomás Barrera
+LS:Campamento
+
+LE:Entrada 4
+HO:06:30
+UD:DSM-7890 p/HK-55-4D
+EV:inspección de seguridad
+ES:2-R
+DA:Operador sin certificación vigente suspendido hasta renovación
+QN:Jaime Maldonado
+LS:Tajo Norte
+
+LE:Planta
+HO:06:42
+UD:Getman NM-789
+EV:Lorena Suárez
+ES:2-R
+DA:Escape de vapor de alta presión área evacuada válvula cerrada
+QN:Ernesto Galván
+LS:Procesamiento
+
+LE:Campamento
+HO:06:55
+UD:Pipa CR-223 p/JL-9988-E
+EV:inspección de seguridad
+ES:2-R
+DA:Tormenta de arena visibilidad cero operaciones suspendidas
+QN:Gonzalo Miranda
+LS:Entrada 3
+
+LE:Entrada 2
+HO:07:08
+UD:STR 309 placas BC-33-779
+EV:Carmen Valdés
+ES:2-R
+DA:Trabajador sin protección respiratoria en área con sílice
+QN:Roberto Esquivel
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:07:20
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Iluminación deficiente en área de trabajo lámparas reemplazadas
+QN:Julio Montes
+LS:Bodega Parral
+
+LE:Entrada 1
+HO:07:32
+UD:Camión-89 p/XC-7712-F
+EV:Angélica Rivas
+ES:2-R
+DA:Deslizamiento de tierra en talud sur acceso cerrado
+QN:Emilio Cordero
+LS:Entrada 1
+
+LE:Procesamiento
+HO:07:45
+UD:DSM-3214 p/NQ-8821-G
+EV:inspección de seguridad
+ES:2-R
+DA:Nivel de monóxido de carbono elevado ventilación activada
+QN:Armando León
+LS:Planta
+
+LE:Garita Principal
+HO:07:58
+UD:CR-778 p/PR-5543-A
+EV:Diana Muñoz
+ES:2-R
+DA:Operador manejando a exceso de velocidad amonestación verbal
+QN:Marco Sandoval
+LS:Campamento
+
+LE:Entrada 4
+HO:08:10
+UD:Getman NM-890
+EV:inspección de seguridad
+ES:2-R
+DA:Fisura en pared de contención riesgo evaluado monitoreo continuo
+QN:Bernardo Salas
+LS:Tajo Sur
+
+LE:Planta
+HO:08:22
+UD:STR 412 placas VN-11-665
+EV:Liliana Cabrera
+ES:2-R
+DA:Derrame de químicos contenido con material absorbente
+QN:Rogelio Parra
+LS:Procesamiento
+
+LE:Campamento
+HO:08:35
+UD:Pipa CR-334 p/DH-6689-B
+EV:inspección de seguridad
+ES:2-R
+DA:Lluvia con granizo daños menores en estructura temporal
+QN:Nicolás Zamora
+LS:Campamento
+
+LE:Entrada 2
+HO:08:48
+UD:Camión-23 p/KM-4421-C
+EV:Josefina Torres
+ES:2-R
+DA:Trabajador sin chaleco de alta visibilidad equipo proporcionado
+QN:Iván Prieto
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:09:00
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Extintor vencido reemplazado por unidad vigente
+QN:Esteban Mejía
+LS:Patio 2
+
+LE:Entrada 1
+HO:09:12
+UD:DSM-5432 p/LO-99-2D
+EV:Margarita Campos
+ES:2-R
+DA:Neblina espesa reducción de velocidad a 20 km/h
+QN:Gerardo Ayala
+LS:Entrada 1
+
+LE:Procesamiento
+HO:09:25
+UD:STR 523 placas QS-77-881
+EV:inspección de seguridad
+ES:2-R
+DA:Polvareda intensa por vientos activación de sistema de supresión
+QN:Sebastián Ortega
+LS:Planta
+
+LE:Garita Principal
+HO:09:38
+UD:CR-889 p/TU-3354-E
+EV:Alicia Contreras
+ES:2-R
+DA:Operador sin examen médico vigente suspendido hasta revisión
+QN:Leonardo Benavides
+LS:Campamento
+
+LE:Entrada 4
+HO:09:50
+UD:Camión-67 p/WX-6678-F
+EV:inspección de seguridad
+ES:2-R
+DA:Desprendimiento de rocas en acceso este señalización preventiva
+QN:Rodolfo Casas
+LS:Tajo Norte
+
+LE:Planta
+HO:10:02
+UD:Getman NM-901
+EV:Isabel Montoya
+ES:2-R
+DA:Fuga de amoniaco área evacuada equipo HAZMAT activado
+QN:Gustavo Téllez
+LS:Procesamiento
+
+LE:Campamento
+HO:10:15
+UD:Pipa CR-445 p/AZ-8899-G
+EV:inspección de seguridad
+ES:2-R
+DA:Temperatura bajo cero congelamiento de superficies precaución
+QN:Claudio Padilla
+LS:Entrada 3
+
+LE:Entrada 2
+HO:10:28
+UD:DSM-6543 p/BM-22-3A
+EV:Luisa Cardenas
+ES:2-R
+DA:Trabajador sin protección para soldadura equipo entregado
+QN:Adán Rosales
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:10:40
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Material inflamable mal almacenado reubicado a zona segura
+QN:Ezequiel Bravo
+LS:Bodega Central
+
+LE:Entrada 1
+HO:10:52
+UD:STR 634 placas CN-44-992
+EV:Guadalupe Mora
+ES:2-R
+DA:Camino con baches profundos reparación programada urgente
+QN:Maximiliano Cisneros
+LS:Entrada 1
+
+LE:Procesamiento
+HO:11:05
+UD:Camión-91 p/EO-5567-B
+EV:inspección de seguridad
+ES:2-R
+DA:Emisiones de gases tóxicos monitoreo ambiental activado
+QN:Alfonso Benítez
+LS:Planta
+
+LE:Garita Principal
+HO:11:18
+UD:CR-990 p/GT-7723-C
+EV:Pilar Acosta
+ES:2-R
+DA:Operador sin capacitación en manejo defensivo pendiente
+QN:Dante Quiroz
+LS:Campamento
+
+LE:Entrada 4
+HO:11:30
+UD:DSM-7654 p/IW-88-4D
+EV:inspección de seguridad
+ES:2-R
+DA:Avalancha menor de tierra acceso bloqueado maquinaria en camino
+QN:Simón Ibáñez
+LS:Tajo Sur
+
+LE:Planta
+HO:11:42
+UD:Getman NM-012
+EV:Yolanda Salinas
+ES:2-R
+DA:Trabajador con signos de fatiga enviado a descanso obligatorio
+QN:Joel Espinoza
+LS:Procesamiento
+
+LE:Campamento
+HO:11:55
+UD:Pipa CR-556 p/KY-9912-E
+EV:inspección de seguridad
+ES:2-R
+DA:Inundación por lluvia excesiva bombeo de agua iniciado
+QN:Uriel Navarro
+LS:Campamento
+
+LE:Entrada 2
+HO:12:08
+UD:STR 745 placas LP-66-335
+EV:Ofelia Villegas
+ES:2-R
+DA:Operador sin línea de vida en trabajo en altura corregido
+QN:Xavier Guevara
+LS:Entrada 2
+
+LE:Bodega Principal
+HO:12:20
+UD:N/A
+EV:inspección de seguridad
+ES:2-R
+DA:Señalización de emergencia obstruida despejada inmediatamente
+QN:Abel Serrano
+LS:Patio 2
+
+LE:Entrada 1
+HO:12:32
+UD:Camión-102 p/RH-3398-A
+EV:Sofía Mendoza
+ES:2-R
+DA:Niebla densa con llovizna visibilidad menor a 10 metros
+QN:Bruno Estrada
+LS:Tajo Norte
+
+LE:Procesamiento
+HO:12:45
+UD:DSM-8765 p/SJ-77-5B
+EV:inspección de seguridad
+ES:2-R
+DA:Partículas suspendidas PM10 elevadas uso de mascarillas obligatorio
+QN:Camilo Bautista
+LS:Planta
+
+LE:Garita Principal
+HO:12:58
+UD:CR-667 p/TK-4423-C
+EV:Regina Ávila
+ES:2-R
+DA:Operador sin permiso de trabajo en caliente suspendido
+QN:Damián Pedroza
+LS:Campamento
+
+LE:Entrada 4
+HO:13:10
+UD:STR 856 placas UL-88-6D
+EV:inspección de seguridad
+ES:2-R
+DA:Hundimiento menor en camino reparación inmediata solicitada
+QN:Edgar Galindo
+LS:Tajo Sur
+
+LE:Planta
+HO:13:22
+UD:Getman NM-123
+EV:Pamela Lozano
+ES:2-R
+DA:Botiquín de primeros auxilios incompleto reabastecido
+QN:Fabián Solís
+LS:Procesamiento
+
+LE:Campamento
+HO:13:35
+UD:Pipa CR-889 p/AR-8812-C
+EV:inspección de seguridad
+ES:2-R
+DA:Tormenta eléctrica aproximándose suspensión preventiva de operaciones
+QN:Gael Montalvo
+LS:Entrada 3
