@@ -6,20 +6,7 @@ import pickle           #Carga de modelo de ML
 import re               #Limpiar el texto de entrada
 import plotly.express as px #Gráficas interactivas 
 import plotly.io as pio     #Configuración de temas
-
 import os
-
-# --- INICIO BLOQUE DE DIAGNÓSTICO ---
-st.write("🕵️‍♂️ AUDITORÍA DE ARCHIVOS:")
-st.write(f"Directorio actual: {os.getcwd()}")
-st.write("Archivos en esta carpeta:", os.listdir())
-
-# Si creaste una carpeta 'assets', veamos qué hay dentro
-if "assets" in os.listdir():
-    st.write("Archivos en carpeta 'assets':", os.listdir("assets"))
-else:
-    st.write("⚠️ NO existe la carpeta 'assets' en el directorio principal.")
-# --- FIN BLOQUE DE DIAGNÓSTICO ---
 
 pio.templates.default = "plotly_dark"
 
@@ -107,20 +94,26 @@ except FileNotFoundError:
     st.error('Error crítico: No se encontrarón los archivos .pkl. Asgúrate de haberlos cargado correctamente')
     st.stop()
 
+# 1. Directorio exacto de app.py
+directorio_actual = os.path.dirname(os.path.abspath(__file__))
 
-ruta_archivo = "assets/chat_muestra.txt"
+# 2. Ruta sumando carpetas
+ruta_absoluta = os.path.join(directorio_actual, "assets", "chat_muestra.txt")
 
+# 3. DEBUG (Solo para tus ojos, bórralo cuando funcione)
+st.write(f"📍 Buscando archivo en: {ruta_absoluta}")
+
+# 4. El Botón
 try:
-    with open(ruta_archivo, "rb") as file:
-        btn = st.download_button(
+    with open(ruta_absoluta, "rb") as file:
+        st.download_button(
             label="📄 Descargar Chat de Muestra",
             data=file,
             file_name="chat_muestra.txt",
-            mime="text/plain",
-            help="Descarga este archivo si no tienes un chat a la mano para probar la app."
+            mime="text/plain"
         )
 except FileNotFoundError:
-    st.error("⚠️ Error: El archivo de muestra no se encuentra en el servidor.")
+    st.error(f"❌ Error: El archivo no está en: {ruta_absoluta}")
 
 #Bloque de ETL Y Procesamiento
 #Crear función de ETL
@@ -326,6 +319,7 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
 
