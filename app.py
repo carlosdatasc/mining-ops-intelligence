@@ -7,6 +7,20 @@ import re               #Limpiar el texto de entrada
 import plotly.express as px #Gráficas interactivas 
 import plotly.io as pio     #Configuración de temas
 
+import os
+
+# --- INICIO BLOQUE DE DIAGNÓSTICO ---
+st.write("🕵️‍♂️ AUDITORÍA DE ARCHIVOS:")
+st.write(f"Directorio actual: {os.getcwd()}")
+st.write("Archivos en esta carpeta:", os.listdir())
+
+# Si creaste una carpeta 'assets', veamos qué hay dentro
+if "assets" in os.listdir():
+    st.write("Archivos en carpeta 'assets':", os.listdir("assets"))
+else:
+    st.write("⚠️ NO existe la carpeta 'assets' en el directorio principal.")
+# --- FIN BLOQUE DE DIAGNÓSTICO ---
+
 pio.templates.default = "plotly_dark"
 
 st.set_page_config(
@@ -312,6 +326,7 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
 
