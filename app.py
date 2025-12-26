@@ -102,7 +102,7 @@ try:
         st.download_button(
             label="Download Sample Chat",
             data=file,
-            file_name="chat_muestra.txt",
+            file_name="sample_chat.txt",
             mime="text/plain"
         )
 except FileNotFoundError:
@@ -312,6 +312,7 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
 
