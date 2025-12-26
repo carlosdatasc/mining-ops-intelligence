@@ -18,7 +18,7 @@ st.set_page_config(
 col_h1, col_h2, col_h3 = st.columns([1, 6, 1])
 with col_h2:
     # Puedes cambiar esta URL por una imagen tuya si quieres
-    st.image("https://iconos8.es/icon/53372/internet", width=80)
+    st.image("https://iconos8.es/icon/53372/internet.png", width=80)
     st.title("MINE-OS: Operational Command Center")
     st.markdown("Artificial Intelligence System for Real-Time Risk Monitoring")
 
@@ -150,7 +150,7 @@ def parse_and_process(load_file):
 
 # Barra lateral para la carga de archivos (Más limpio)
 with st.sidebar:
-    st.image("https://iconos8.es/icon/37930/documents", width=50) # Logo conceptual
+    st.image("https://iconos8.es/icon/37930/documents.png", width=50) # Logo conceptual
     st.markdown("<h3 style='color: white;'>MINE-OS <span style='font-size:12px; color:#666;'>Pro</span></h3>", unsafe_allow_html=True)
     st.write("")
     uploaded_file = st.file_uploader("Drop Log File", type=['txt'])
@@ -298,3 +298,4 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
