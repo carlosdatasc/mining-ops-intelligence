@@ -93,8 +93,22 @@ except FileNotFoundError:
     st.error('Error crítico: No se encontrarón los archivos .pkl. Asgúrate de haberlos cargado correctamente')
     st.stop()
 
-#Bloque de ETL Y Procesamiento (La fábrica)
 
+ruta_archivo = "assets/chat_muestra.txt"
+
+try:
+    with open(ruta_archivo, "rb") as file:
+        btn = st.download_button(
+            label="📄 Descargar Chat de Muestra",
+            data=file,
+            file_name="chat_muestra.txt",
+            mime="text/plain",
+            help="Descarga este archivo si no tienes un chat a la mano para probar la app."
+        )
+except FileNotFoundError:
+    st.error("⚠️ Error: El archivo de muestra no se encuentra en el servidor.")
+
+#Bloque de ETL Y Procesamiento
 #Crear función de ETL
 def parse_and_process(load_file):
     """
@@ -298,5 +312,6 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
