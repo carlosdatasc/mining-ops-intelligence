@@ -100,7 +100,7 @@ ruta_absoluta = "assets/conversation.txt"
 try:
     with open(ruta_absoluta, "rb") as file:
         st.download_button(
-            label="📄 Descargar Chat de Muestra",
+            label="Download Sample Chat",
             data=file,
             file_name="chat_muestra.txt",
             mime="text/plain"
@@ -312,6 +312,7 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
 
