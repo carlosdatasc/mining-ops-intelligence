@@ -94,11 +94,8 @@ except FileNotFoundError:
     st.error('Error crítico: No se encontrarón los archivos .pkl. Asgúrate de haberlos cargado correctamente')
     st.stop()
 
-# 1. Directorio exacto de app.py
-directorio_actual = os.path.dirname(os.path.abspath(__file__))
 
-# 2. Ruta sumando carpetas
-ruta_absoluta = os.path.join(directorio_actual, "assets", "chat_muestra.txt")
+ruta_absoluta = "assets/conversation.txt"
 
 # 3. DEBUG (Solo para tus ojos, bórralo cuando funcione)
 st.write(f"📍 Buscando archivo en: {ruta_absoluta}")
@@ -319,6 +316,7 @@ if uploaded_file is not None:
         faltantes = [c for c in cols_necesarias if c not in df.columns]
 
         st.warning(f"No se puede generar el gráfico de detalle. Tu archivo .txt no tiene los campos: {faltantes}")
+
 
 
 
